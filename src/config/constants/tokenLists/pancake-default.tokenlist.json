@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "WTARA Token",
-      "symbol": "WTARA",
-      "address": "0x9A3b58833815A09d5d943e7dD4A77E6557Dea93f",
-      "chainId": 4002,
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4372/small/CPuCDZX.jpg"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
     },
     {
       "name": "USDC Token",
@@ -27,12 +27,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     },
     {
-      "name": "HerbSwap Token",
-      "symbol": "HERB",
-      "address": "0x25B4bA0555282645FE6B1CE22b3323F3879a61b7",
-      "chainId": 4002,
+      "name": "Meta Book Finance Token",
+      "symbol": "MBF",
+      "address": "0xe65a33048d3e12d1129f85cea3ea7f97d3fb82e6",
+      "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://iili.io/gFyZjs.png"
+      "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Logo%20MBF%20New.png"
     }
   ]
 }
