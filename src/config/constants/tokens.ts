@@ -2,11 +2,11 @@ import { ChainId, Token, WBNB } from '@pancakeswap/sdk'
 
 const CAKE_MAINNET = new Token(                     // CAKE_MAINNET stands for HERB token in HerbSwap
   ChainId.BSC,
-  '0x25B4bA0555282645FE6B1CE22b3323F3879a61b7',
-  18,
-  'HERB',
-  'HerbSwap Token',
-  'https://taraxa.io/',
+  '0xc307EFa505865c9db2476f9315ac707a00FaAb1E',
+  9,
+  'mLove',
+  'The Love Moon',
+  'https://mlovetoken.io/',
 )
 
 const CAKE_TESTNET = new Token(
