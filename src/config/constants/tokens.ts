@@ -74,11 +74,11 @@ export const bscTokens = {
   // bnb here points to the wbnb contract. Wherever the currency BNB is required, conditional checks for the symbol 'BNB' can be used
   bnb: new Token(
     ChainId.BSC,
-    '0x9A3b58833815A09d5d943e7dD4A77E6557Dea93f',
-    18,
-    'TARA',
-    'TARA',
-    'https://www.taraxa.io/',
+    '0xc307EFa505865c9db2476f9315ac707a00FaAb1E',
+    9,
+    'mLove',
+    'The Love Moon',
+    'https://www.mLoveToken.io/',
   ),
   cake: CAKE_MAINNET,
   busd: BUSD_MAINNET,
